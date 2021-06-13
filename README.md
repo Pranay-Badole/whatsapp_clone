@@ -1,6 +1,6 @@
 # whatsapp_clone
 
-A new Flutter project.
+Building a whatsapp Clone in Flutter
 
 ## Getting Started
 
